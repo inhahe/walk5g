@@ -1,10 +1,12 @@
 Usage: walk5g.py &lt;regex pattern> &lt;filespec> [flags]
 
+<pre>
 Flags:
  /i: ignore case
  /s: search in subdirectories
  /m: multiline mode (affects the behavior of ^ and $)
  /d: make "." also match newlines
+</pre>
 
 I don't remember if this program actually works. I guess it does because I apparently made 10 revisions of it.
 
